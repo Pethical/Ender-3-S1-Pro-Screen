@@ -399,15 +399,156 @@
 
 #define  _TXT_DIS__ADJUST_14_FWVERSION1                                       33
 
-#define  _BTN_ADJUST_14_BUTTON1                                                4
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY2                                     7
 
-#define  _BTN_ADJUST_14_BUTTON2                                                7
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY1                                     4
 
-#define  _BTN_ADJUST_14_BUTTON3                                               10
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY4                                     9
 
-#define  _BTN_ADJUST_14_BUTTON4                                               13
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY3                                     8
 
-#define  _BTN_ADJUST_14_BUTTON5                                               17
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY6                                    13
+
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY5                                    12
+
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY8                                    18
+
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY7                                    17
+
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY11                                   22
+
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY10                                   21
+
+#define  _BTN_ADJUST_14_BUTTON1                                               23
+
+#define  _BTN_MOVEAXIS_10MM_16_SETTINGSBUTTON                                 32
+
+#define  _BTN_MOVEAXIS_10MM_16_HOMEBUTTON                                     29
+
+#define  _BTN_MOVEAXIS_10MM_16_FILESBUTTON                                    30
+
+#define  _BTN_MOVEAXIS_10MM_16_ADJUSTBUTTON                                   31
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON1                                     1
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON2                                     2
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON3                                     3
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON4                                     4
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON5                                     5
+
+//Image used in Screen:MoveAxis_10mm_16 Animation:Icon6
+#define  _IMG_MOVEAXIS_10MM_16_ICON6                                          17
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON6                                     6
+
+//Image used in Screen:MoveAxis_10mm_16 Animation:Icon7
+#define  _IMG_MOVEAXIS_10MM_16_ICON7                                          18
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON7                                     7
+
+//Image used in Screen:MoveAxis_10mm_16 Animation:Icon8
+#define  _IMG_MOVEAXIS_10MM_16_ICON8                                          21
+
+#define  _ANIMATION_MOVEAXIS_10MM_16_ICON8                                     8
+
+#define  _TXT_DIS__MOVEAXIS_10MM_16_TEXT_DISPLAY1                             11
+
+#define  _TXT_DIS__MOVEAXIS_10MM_16_TEXT_DISPLAY2                             12
+
+#define  _TXT_DIS__MOVEAXIS_10MM_16_TEXT_DISPLAY3                             13
+
+#define  _BTN_MOVEAXIS_10MM_16_BUTTON1                                         9
+
+#define  _BTN_MOVEAXIS_10MM_16_BUTTON2                                        10
+
+#define  _BTN_MOVEAXIS_10MM_16_BUTTON3                                        14
+
+#define  _TXT_DIS__MOVEAXIS_10MM_16_TEXT_DISPLAY4                             15
+
+#define  _TXT_DIS__MOVEAXIS_10MM_16_TEXT_DISPLAY5                             16
+
+#define  _TXT_DIS__MOVEAXIS_10MM_16_TEXT_DISPLAY6                             17
+
+#define  _BTN_MOVEAXIS_10MM_16_BUTTON4                                        20
+
+#define  _BTN_MOVEAXIS_10MM_16_BUTTON5                                        21
+
+#define  _BTN_MOVEAXIS_10MM_16_BUTTON6                                        22
+
+#define  _BTN_MOCEAXIS_1MM_17_SETTINGSBUTTON                                  32
+
+#define  _BTN_MOCEAXIS_1MM_17_HOMEBUTTON                                      29
+
+#define  _BTN_MOCEAXIS_1MM_17_FILESBUTTON                                     30
+
+#define  _BTN_MOCEAXIS_1MM_17_ADJUSTBUTTON                                    31
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon1
+#define  _IMG_MOCEAXIS_1MM_17_ICON1                                           17
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON1                                      1
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon2
+#define  _IMG_MOCEAXIS_1MM_17_ICON2                                           18
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON2                                      2
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon3
+#define  _IMG_MOCEAXIS_1MM_17_ICON3                                           19
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON3                                      3
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon4
+#define  _IMG_MOCEAXIS_1MM_17_ICON4                                           20
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON4                                      4
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon5
+#define  _IMG_MOCEAXIS_1MM_17_ICON5                                           21
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON5                                      5
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon6
+#define  _IMG_MOCEAXIS_1MM_17_ICON6                                           17
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON6                                      6
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon7
+#define  _IMG_MOCEAXIS_1MM_17_ICON7                                           18
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON7                                      7
+
+//Image used in Screen:MoceAxis_1mm_17 Animation:Icon8
+#define  _IMG_MOCEAXIS_1MM_17_ICON8                                           21
+
+#define  _ANIMATION_MOCEAXIS_1MM_17_ICON8                                      8
+
+#define  _TXT_DIS__MOCEAXIS_1MM_17_TEXT_DISPLAY1                              11
+
+#define  _TXT_DIS__MOCEAXIS_1MM_17_TEXT_DISPLAY2                              12
+
+#define  _TXT_DIS__MOCEAXIS_1MM_17_TEXT_DISPLAY3                              13
+
+#define  _BTN_MOCEAXIS_1MM_17_BUTTON1                                          9
+
+#define  _BTN_MOCEAXIS_1MM_17_BUTTON2                                         10
+
+#define  _BTN_MOCEAXIS_1MM_17_BUTTON3                                         14
+
+#define  _TXT_DIS__MOCEAXIS_1MM_17_TEXT_DISPLAY4                              15
+
+#define  _TXT_DIS__MOCEAXIS_1MM_17_TEXT_DISPLAY5                              16
+
+#define  _TXT_DIS__MOCEAXIS_1MM_17_TEXT_DISPLAY6                              17
+
+#define  _BTN_MOCEAXIS_1MM_17_BUTTON4                                         20
+
+#define  _BTN_MOCEAXIS_1MM_17_BUTTON5                                         21
+
+#define  _BTN_MOCEAXIS_1MM_17_BUTTON6                                         22
 
 #define  _BTN_MOVEAXIS_01MM_18_SETTINGSBUTTON                                 32
 
@@ -417,6 +558,86 @@
 
 #define  _BTN_MOVEAXIS_01MM_18_ADJUSTBUTTON                                   31
 
+#define  _BTN_MOVEAXIS_01MM_18_SETTINGSBUTTON1                                 6
+
+#define  _BTN_MOVEAXIS_01MM_18_HOMEBUTTON1                                     9
+
+#define  _BTN_MOVEAXIS_01MM_18_FILESBUTTON1                                   10
+
+#define  _BTN_MOVEAXIS_01MM_18_ADJUSTBUTTON1                                  11
+
+#define  _BTN_MOVEAXIS_01MM_18_SETTINGSBUTTON2                                17
+
+#define  _BTN_MOVEAXIS_01MM_18_HOMEBUTTON2                                    21
+
+#define  _BTN_MOVEAXIS_01MM_18_FILESBUTTON2                                   22
+
+#define  _BTN_MOVEAXIS_01MM_18_ADJUSTBUTTON2                                  23
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon1
+#define  _IMG_MOVEAXIS_01MM_18_ICON1                                          17
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON1                                    24
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon2
+#define  _IMG_MOVEAXIS_01MM_18_ICON2                                          18
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON2                                    25
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon3
+#define  _IMG_MOVEAXIS_01MM_18_ICON3                                          19
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON3                                    26
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon4
+#define  _IMG_MOVEAXIS_01MM_18_ICON4                                          20
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON4                                    27
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon5
+#define  _IMG_MOVEAXIS_01MM_18_ICON5                                          21
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON5                                    28
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon6
+#define  _IMG_MOVEAXIS_01MM_18_ICON6                                          17
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON6                                    33
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon7
+#define  _IMG_MOVEAXIS_01MM_18_ICON7                                          18
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON7                                    38
+
+//Image used in Screen:MoveAxis_01mm_18 Animation:Icon8
+#define  _IMG_MOVEAXIS_01MM_18_ICON8                                          21
+
+#define  _ANIMATION_MOVEAXIS_01MM_18_ICON8                                    40
+
+#define  _TXT_DIS__MOVEAXIS_01MM_18_TEXT_DISPLAY1                             43
+
+#define  _TXT_DIS__MOVEAXIS_01MM_18_TEXT_DISPLAY2                             44
+
+#define  _TXT_DIS__MOVEAXIS_01MM_18_TEXT_DISPLAY3                             45
+
+#define  _BTN_MOVEAXIS_01MM_18_BUTTON1                                        46
+
+#define  _BTN_MOVEAXIS_01MM_18_BUTTON2                                        47
+
+#define  _BTN_MOVEAXIS_01MM_18_BUTTON3                                        48
+
+#define  _TXT_DIS__MOVEAXIS_01MM_18_TEXT_DISPLAY4                             49
+
+#define  _TXT_DIS__MOVEAXIS_01MM_18_TEXT_DISPLAY5                             50
+
+#define  _TXT_DIS__MOVEAXIS_01MM_18_TEXT_DISPLAY6                             51
+
+#define  _BTN_MOVEAXIS_01MM_18_BUTTON4                                        53
+
+#define  _BTN_MOVEAXIS_01MM_18_BUTTON5                                        54
+
+#define  _BTN_MOVEAXIS_01MM_18_BUTTON6                                        55
+
 #define  _BTN_FEEDRETURN_19_SETTINGSBUTTON                                    32
 
 #define  _BTN_FEEDRETURN_19_HOMEBUTTON                                        29
@@ -425,6 +646,27 @@
 
 #define  _BTN_FEEDRETURN_19_ADJUSTBUTTON                                      31
 
+//Image used in Screen:FeedReturn_19 Image:Image2
+#define  _IMG_FEEDRETURN_19_IMAGE2                                            12
+
+#define  _TXT_DIS__FEEDRETURN_19_TEXT_DISPLAY2                                 7
+
+#define  _TXT_DIS__FEEDRETURN_19_TEXT_DISPLAY4                                 9
+
+#define  _TXT_DIS__FEEDRETURN_19_TEXT_DISPLAY6                                13
+
+#define  _TXT_DIS__FEEDRETURN_19_TEXT_DISPLAY5                                12
+
+#define  _TXT_DIS__FEEDRETURN_19_TEXT_DISPLAY3                                 8
+
+#define  _TXT_DIS__FEEDRETURN_19_TEXT_DISPLAY1                                 4
+
+#define  _BTN_FEEDRETURN_19_BUTTON4                                           20
+
+#define  _BTN_FEEDRETURN_19_BUTTON5                                           21
+
+#define  _BTN_FEEDRETURN_19_BUTTON6                                           22
+
 #define  _BTN_CONTROL_20_SETTINGSBUTTON                                       32
 
 #define  _BTN_CONTROL_20_HOMEBUTTON                                           29
@@ -432,6 +674,12 @@
 #define  _BTN_CONTROL_20_FILESBUTTON                                          30
 
 #define  _BTN_CONTROL_20_ADJUSTBUTTON                                         31
+
+#define  _BTN_CONTROL_20_BUTTON4                                              20
+
+#define  _BTN_CONTROL_20_BUTTON5                                              21
+
+#define  _BTN_CONTROL_20_BUTTON6                                              22
 
 #define  _BTN_TEMP_21_SETTINGSBUTTON                                          32
 
