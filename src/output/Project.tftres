@@ -49,17 +49,19 @@
         <page name="SDCardCheck" id="46" />
     </pages>
     <images>
-        <image id="0" url="c:\source\ender\dacai\project\Images\thermometer-low (1).png" effect_width="48" effect_height="48" />
-        <image id="1" url="c:\source\ender\dacai\project\Images\coolant-temperature.png" effect_width="48" effect_height="48" />
-        <image id="2" url="c:\source\ender\dacai\project\Images\fan.png" effect_width="48" effect_height="48" />
-        <image id="3" url="c:\source\ender\dacai\project\Images\format-paragraph-spacing.png" effect_width="48" effect_height="48" />
-        <image id="4" url="c:\source\ender\dacai\project\Images\luke-chesser-pJadQetzTkI-unsplash.jpg" effect_width="480" effect_height="34" />
-        <image id="5" url="c:\source\ender\dacai\project\Images\luke-chesser-pJadQetzTkI-unsplash.jpg" effect_width="409" effect_height="47" />
-        <image id="6" url="c:\source\ender\dacai\project\Images\timer-sand.png" effect_width="32" effect_height="32" />
-        <image id="7" url="c:\source\ender\dacai\project\Images\timer-sand-complete.png" effect_width="32" effect_height="32" />
-        <image id="8" url="c:\source\ender\dacai\project\images\icon1.ICON" effect_width="24" effect_height="24" />
-        <image id="9" url="c:\source\ender\dacai\project\Images\icons8-coil-100.png" effect_width="200" effect_height="200" />
-        <image id="10" url="c:\source\ender\dacai\project\Images\icons8-checkmark-256.png" effect_width="256" effect_height="256" />
+        <image id="0" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\thermometer-low (1).png" effect_width="48" effect_height="48" />
+        <image id="1" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\coolant-temperature.png" effect_width="48" effect_height="48" />
+        <image id="2" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\fan.png" effect_width="48" effect_height="48" />
+        <image id="3" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\format-paragraph-spacing.png" effect_width="48" effect_height="48" />
+        <image id="4" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\luke-chesser-pJadQetzTkI-unsplash.jpg" effect_width="480" effect_height="34" />
+        <image id="5" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\luke-chesser-pJadQetzTkI-unsplash.jpg" effect_width="409" effect_height="47" />
+        <image id="6" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\timer-sand.png" effect_width="32" effect_height="32" />
+        <image id="7" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\timer-sand-complete.png" effect_width="32" effect_height="32" />
+        <image id="8" url="c:\source\ender\ender-3-s1-pro-screen\src\images\icon1.ICON" effect_width="24" effect_height="24" />
+        <image id="9" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-coil-100.png" effect_width="200" effect_height="200" />
+        <image id="10" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-coil-100.png" effect_width="200" effect_height="200" />
+        <image id="11" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-checkmark-256.png" effect_width="256" effect_height="256" />
+        <image id="12" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-home-page-100 (1).png" effect_width="200" effect_height="200" />
     </images>
     <waves />
 </Resource>

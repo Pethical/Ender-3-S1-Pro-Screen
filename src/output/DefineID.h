@@ -158,6 +158,11 @@
 
 #define  _HIS_GRA_HOME_1_TEMPERATUREGRAPH                                     46
 
+#define  _TXT_DIS__HOME_1_FWVERSION1                                          33
+
+//Image used in Screen:Files_1_2 Image:Image1
+#define  _IMG_FILES_1_2_IMAGE1                                                 4
+
 #define  _RECORD_FILES_1_2_RECORD1                                            50
 
 #define  _TXT_DIS__FILES_1_2_TEXT_DISPLAY9                                    15
@@ -170,6 +175,8 @@
 
 #define  _BTN_FILES_1_2_BUTTON4                                               31
 
+#define  _TXT_DIS__FILES_1_2_FWVERSION1                                       33
+
 #define  _TXT_DIS__FILAMENTUSEUP_7_TEXT_DISPLAY1                               1
 
 #define  _TXT_DIS__FILAMENTUSEUP_7_TEXT_DISPLAY2                               2
@@ -178,17 +185,24 @@
 
 #define  _BTN_FILAMENTUSEUP_7_BUTTON2                                          4
 
-#define  _TXT_DIS__FILAMENTLOAD_8_TEXT_DISPLAY1                                1
-
 #define  _TXT_DIS__FILAMENTLOAD_8_TEXT_DISPLAY2                                2
 
 #define  _BTN_FILAMENTLOAD_8_BUTTON1                                           3
 
 #define  _BTN_FILAMENTLOAD_8_BUTTON2                                           4
 
+#define  _IMAGE_FILAMENTLOAD_8_IMAGE1                                          5
+
 #define  _TXT_DIS__FINISH_9_TEXT_DISPLAY1                                      2
 
 #define  _BTN_FINISH_9_BUTTON1                                                 3
+
+//Image used in Screen:Finish_9 Image:Image2
+#define  _IMG_FINISH_9_IMAGE2                                                  4
+
+#define  _TXT_DIS__FINISH_9_FWVERSION                                         15
+
+#define  _TXT_DIS__FINISH_9_FWVERSION1                                        33
 
 #define  _BTN_PAUSE_10_SETTINGSBUTTON                                         32
 
@@ -228,11 +242,6 @@
 
 #define  _TXT_DIS__PAUSE_10_TEXT_DISPLAY8                                     14
 
-//Image used in Screen:Pause_10 Image:Image1
-#define  _IMG_PAUSE_10_IMAGE1                                                  4
-
-#define  _TXT_DIS__PAUSE_10_FWVERSION                                         15
-
 //Image used in Screen:Pause_10 Progress:PrintProgress of Background
 #define  _IMG_PAUSE_10_PRINTPROGRESS                                           5
 
@@ -271,6 +280,13 @@
 #define  _IMG_PAUSE_10_ICON6                                                   7
 
 #define  _ANIMATION_PAUSE_10_ICON6                                            27
+
+//Image used in Screen:Pause_10 Image:Image2
+#define  _IMG_PAUSE_10_IMAGE2                                                  4
+
+#define  _TXT_DIS__PAUSE_10_FWVERSION                                         15
+
+#define  _TXT_DIS__PAUSE_10_FWVERSION1                                        33
 
 #define  _TXT_DIS__PAUSESTOP_11_TEXT_DISPLAY1                                  1
 
@@ -316,11 +332,6 @@
 
 #define  _TXT_DIS__RESUME_12_TEXT_DISPLAY8                                    14
 
-//Image used in Screen:Resume_12 Image:Image1
-#define  _IMG_RESUME_12_IMAGE1                                                 4
-
-#define  _TXT_DIS__RESUME_12_FWVERSION                                        15
-
 //Image used in Screen:Resume_12 Progress:PrintProgress of Background
 #define  _IMG_RESUME_12_PRINTPROGRESS                                          5
 
@@ -359,6 +370,13 @@
 #define  _IMG_RESUME_12_ICON6                                                  7
 
 #define  _ANIMATION_RESUME_12_ICON6                                           27
+
+//Image used in Screen:Resume_12 Image:Image2
+#define  _IMG_RESUME_12_IMAGE2                                                 4
+
+#define  _TXT_DIS__RESUME_12_FWVERSION                                        15
+
+#define  _TXT_DIS__RESUME_12_FWVERSION1                                       33
 
 #define  _BTN_ADJUST_14_SETTINGSBUTTON                                        32
 
@@ -416,9 +434,10 @@
 
 #define  _BTN_CONTROLDEVICE_ADJUSTBUTTON                                      31
 
-#define  _TXT_DIS__AUTOHOME_TEXT_DISPLAY1                                      2
+//Image used in Screen:Autohome Image:Image2
+#define  _IMG_AUTOHOME_IMAGE2                                                  4
 
-#define  _TXT_DIS__AUTOHOME_TEXT_DISPLAY2                                      3
+#define  _TXT_DIS__AUTOHOME_FWVERSION                                         15
 
-#define  _TXT_DIS__AUTOHOME_TEXT_DISPLAY3                                      4
+#define  _TXT_DIS__AUTOHOME_FWVERSION1                                        33
 
