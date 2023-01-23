@@ -187,11 +187,11 @@
 
 #define  _TXT_DIS__FILAMENTLOAD_8_TEXT_DISPLAY2                                2
 
+#define  _IMAGE_FILAMENTLOAD_8_IMAGE1                                          5
+
 #define  _BTN_FILAMENTLOAD_8_BUTTON1                                           3
 
 #define  _BTN_FILAMENTLOAD_8_BUTTON2                                           4
-
-#define  _IMAGE_FILAMENTLOAD_8_IMAGE1                                          5
 
 #define  _TXT_DIS__FINISH_9_TEXT_DISPLAY1                                      2
 
@@ -203,6 +203,12 @@
 #define  _TXT_DIS__FINISH_9_FWVERSION                                         15
 
 #define  _TXT_DIS__FINISH_9_FWVERSION1                                        33
+
+#define  _TXT_DIS__FINISH_9_TEXT_DISPLAY2                                      5
+
+#define  _TXT_DIS__FINISH_9_TEXT_DISPLAY3                                      6
+
+#define  _TXT_DIS__FINISH_9_TEXT_DISPLAY4                                      7
 
 #define  _BTN_PAUSE_10_SETTINGSBUTTON                                         32
 
@@ -385,6 +391,23 @@
 #define  _BTN_ADJUST_14_FILESBUTTON                                           30
 
 #define  _BTN_ADJUST_14_ADJUSTBUTTON                                          31
+
+//Image used in Screen:Adjust_14 Image:Image1
+#define  _IMG_ADJUST_14_IMAGE1                                                 4
+
+#define  _TXT_DIS__ADJUST_14_TEXT_DISPLAY9                                    15
+
+#define  _TXT_DIS__ADJUST_14_FWVERSION1                                       33
+
+#define  _BTN_ADJUST_14_BUTTON1                                                4
+
+#define  _BTN_ADJUST_14_BUTTON2                                                7
+
+#define  _BTN_ADJUST_14_BUTTON3                                               10
+
+#define  _BTN_ADJUST_14_BUTTON4                                               13
+
+#define  _BTN_ADJUST_14_BUTTON5                                               17
 
 #define  _BTN_MOVEAXIS_01MM_18_SETTINGSBUTTON                                 32
 

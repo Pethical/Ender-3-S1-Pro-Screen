@@ -49,7 +49,7 @@
         <page name="SDCardCheck" id="46" />
     </pages>
     <images>
-        <image id="0" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\thermometer-low (1).png" effect_width="48" effect_height="48" />
+        <image id="0" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\thermometer-low.png" effect_width="48" effect_height="48" />
         <image id="1" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\coolant-temperature.png" effect_width="48" effect_height="48" />
         <image id="2" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\fan.png" effect_width="48" effect_height="48" />
         <image id="3" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\format-paragraph-spacing.png" effect_width="48" effect_height="48" />
@@ -61,7 +61,12 @@
         <image id="9" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-coil-100.png" effect_width="200" effect_height="200" />
         <image id="10" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-coil-100.png" effect_width="200" effect_height="200" />
         <image id="11" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-checkmark-256.png" effect_width="256" effect_height="256" />
-        <image id="12" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-home-page-100 (1).png" effect_width="200" effect_height="200" />
+        <image id="12" url="c:\source\ender\ender-3-s1-pro-screen\src\images\thermometer-low.png" effect_width="45" effect_height="37" />
+        <image id="13" url="c:\source\ender\ender-3-s1-pro-screen\src\images\coolant-temperature.png" effect_width="45" effect_height="37" />
+        <image id="14" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-speedometer-90.png" effect_width="36" effect_height="36" />
+        <image id="15" url="c:\source\ender\ender-3-s1-pro-screen\src\images\fan.png" effect_width="45" effect_height="37" />
+        <image id="16" url="c:\source\ender\ender-3-s1-pro-screen\src\images\format-paragraph-spacing.png" effect_width="45" effect_height="37" />
+        <image id="17" url="c:\source\ender\ender-3-s1-pro-screen\src\Images\icons8-home-page-100.png" effect_width="200" effect_height="200" />
     </images>
     <waves />
 </Resource>
