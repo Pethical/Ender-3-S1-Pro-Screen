@@ -1,0 +1,1 @@
+<xml><functions><function name="on_control_notify" addr="4"/><function name="on_init" addr="0"/><function name="on_screen_change" addr="5"/><function name="on_systick" addr="1"/><function name="on_timer" addr="2"/><function name="on_variant_upate" addr="3"/></functions><non_optimize_rigiseters/></xml>

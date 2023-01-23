@@ -1,0 +1,65 @@
+<Resource>
+    <pages>
+        <page name="Splash_0" id="0" />
+        <page name="Home_1" id="1" />
+        <page name="Files_1_2" id="2" />
+        <page name="Files_2_3" id="3" />
+        <page name="Files_3_4" id="4" />
+        <page name="Files_4_5" id="5" />
+        <page name="Empty_6" id="6" />
+        <page name="Filamentuseup_7" id="7" />
+        <page name="Filamentload_8" id="8" />
+        <page name="Finish_9" id="9" />
+        <page name="Pause_10" id="10" />
+        <page name="PauseStop_11" id="11" />
+        <page name="Resume_12" id="12" />
+        <page name="ContinueOrStop_13" id="13" />
+        <page name="Adjust_14" id="14" />
+        <page name="Prepare_15" id="15" />
+        <page name="MoveAxis_10mm_16" id="16" />
+        <page name="MoceAxis_1mm_17" id="17" />
+        <page name="MoveAxis_01mm_18" id="18" />
+        <page name="FeedReturn_19" id="19" />
+        <page name="Control_20" id="20" />
+        <page name="Temp_21" id="21" />
+        <page name="PLA_Temp_22" id="22" />
+        <page name="ABS_Temp_23" id="23" />
+        <page name="Information" id="24" />
+        <page name="LevelingMode" id="25" />
+        <page name="Leveling" id="26" />
+        <page name="PoweringContinue" id="27" />
+        <page name="Language" id="28" />
+        <page name="Keyboard" id="29" />
+        <page name="KeyboardConfirm" id="30" />
+        <page name="ThermalRunaway" id="31" />
+        <page name="LevelOffset" id="32" />
+        <page name="ControlDevice" id="33" />
+        <page name="Motion" id="34" />
+        <page name="MaxFeedRate" id="35" />
+        <page name="Acceleration" id="36" />
+        <page name="Jerk" id="37" />
+        <page name="Stepsmm" id="38" />
+        <page name="PIDControl" id="39" />
+        <page name="Autohome" id="40" />
+        <page name="Abnormal" id="41" />
+        <page name="WIFIConfirm" id="42" />
+        <page name="FactoryReset" id="43" />
+        <page name="Shutdown" id="44" />
+        <page name="FilamentCheck" id="45" />
+        <page name="SDCardCheck" id="46" />
+    </pages>
+    <images>
+        <image id="0" url="c:\source\ender\dacai\project\Images\thermometer-low (1).png" effect_width="48" effect_height="48" />
+        <image id="1" url="c:\source\ender\dacai\project\Images\coolant-temperature.png" effect_width="48" effect_height="48" />
+        <image id="2" url="c:\source\ender\dacai\project\Images\fan.png" effect_width="48" effect_height="48" />
+        <image id="3" url="c:\source\ender\dacai\project\Images\format-paragraph-spacing.png" effect_width="48" effect_height="48" />
+        <image id="4" url="c:\source\ender\dacai\project\Images\luke-chesser-pJadQetzTkI-unsplash.jpg" effect_width="480" effect_height="34" />
+        <image id="5" url="c:\source\ender\dacai\project\Images\luke-chesser-pJadQetzTkI-unsplash.jpg" effect_width="409" effect_height="47" />
+        <image id="6" url="c:\source\ender\dacai\project\Images\timer-sand.png" effect_width="32" effect_height="32" />
+        <image id="7" url="c:\source\ender\dacai\project\Images\timer-sand-complete.png" effect_width="32" effect_height="32" />
+        <image id="8" url="c:\source\ender\dacai\project\images\icon1.ICON" effect_width="24" effect_height="24" />
+        <image id="9" url="c:\source\ender\dacai\project\Images\icons8-coil-100.png" effect_width="200" effect_height="200" />
+        <image id="10" url="c:\source\ender\dacai\project\Images\icons8-checkmark-256.png" effect_width="256" effect_height="256" />
+    </images>
+    <waves />
+</Resource>

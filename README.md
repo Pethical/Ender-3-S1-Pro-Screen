@@ -1,11 +1,29 @@
-# Ender-3-S1-Pro-Screen
-Rebuild of the Ender 3 S1 Pro TouchScreen project
+# Ender 3 S1 Pro DACAI Screen Firmware
+
+Rebuild of the Ender 3 S1 Pro Touch Screen firmware project
 
 # STOP
 
 **WARNING! WARNING! WARNING! WORK IN PROGRESS! NOT WORKING! DO NOT TRY ON YOUR DEVICE!**
 
-# GRAPHICS FILES LICENSE AND ATTRIBUTION
+# Done features and TODO-s
 
-The graphics files are created and copyrighted by Creality. You can download the full firmware from here: https://www.creality.com/pages/download-ender-3-s1-pro
-The downloaded archive contains the graphics files.
+-[x] Spash screen
+-[x] Home page
+  -[x] Start print
+  -[x] Pause 
+  -[x] Resume
+  -[x] Stop
+-[x] Select file
+-[x] Start/Stop/Pause print
+-[x] Print finished page
+-[ ] Adjust menu
+-[ ] Settings menu
+-[ ] Error pages
+-[ ] Laser features
+
+# Attribution
+
+Graphics / Icons sources:
+* https://icons8.com
+* https://materialdesignicons.com
