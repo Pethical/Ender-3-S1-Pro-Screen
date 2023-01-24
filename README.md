@@ -4,7 +4,7 @@ Rebuild of the Ender 3 S1 Pro Touch Screen firmware project
 
 # STOP
 
-**WARNING! WARNING! WARNING! WORK IN PROGRESS! NOT WORKING! DO NOT TRY ON YOUR DEVICE!**
+**WARNING! WARNING! WARNING! WORK IN PROGRESS! NOT WORKS! DO NOT TRY ON YOUR DEVICE!**
 
 # Done features and TODO-s
 
